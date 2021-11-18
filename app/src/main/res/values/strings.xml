@@ -439,7 +439,8 @@
     <string name="create_playlist">New Playlist</string>
     <string name="rename_playlist">Rename</string>
     <string name="name">Name</string>
-    <string name="append_playlist">Add to playlist</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="processing_may_take_a_moment">Processing... May take a moment</string>
     <string name="mute">Mute</string>
     <string name="unmute">Unmute</string>
     <string name="set_as_playlist_thumbnail">Set as playlist thumbnail</string>
@@ -516,6 +517,8 @@
     <!-- Updates Settings -->
     <string name="updates_setting_title">Updates</string>
     <string name="updates_setting_description">Show a notification to prompt app update when a new version is available</string>
+    <string name="manual_update_title">Check for updates</string>
+    <string name="manual_update_description">Manually check for new versions</string>
     <!-- Minimize to exit action -->
     <string name="minimize_on_exit_title">Minimize on app switch</string>
     <string name="minimize_on_exit_summary">Action when switching to other app from main video player — %s</string>
@@ -546,6 +549,7 @@
     <string name="recovering">recovering</string>
     <string name="enqueue">Queue</string>
     <string name="permission_denied">Action denied by the system</string>
+    <string name="checking_updates_toast">Checking for updates…</string>
     <!-- download notifications -->
     <string name="download_failed">Download failed</string>
     <plurals name="download_finished_notification">
@@ -632,6 +636,7 @@
     <string name="feed_subscription_not_loaded_count">Not loaded: %d</string>
     <string name="feed_notification_loading">Loading feed…</string>
     <string name="feed_processing_message">Processing feed…</string>
+    <string name="feed_new_items">New feed items</string>
     <string name="feed_group_dialog_select_subscriptions">Select subscriptions</string>
     <string name="feed_group_dialog_empty_selection">No subscription selected</string>
     <plurals name="feed_group_dialog_selection_count">
